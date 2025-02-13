@@ -9,11 +9,11 @@ var t4 = ""
 var t5 = ""
 var time = 0
 function enviarMensaje(texto) {
-    t1 = "Queria darte unas de verdad, pero no te dejas ver";
-    t2 = "Asi que te mando las unicas rosas que de mi puedes tener"
-    t3 = "quisas no sean tus preferidas"
-    t4 = "pero dime donde y te llevo las que me digas"
-    t5 = "Que tengas un lindo dia 💛"
+    t1 = "Hoy me gustaria estar a tu lado y darte una rosita por bonita";
+    t2 = "Pero mientras no te veo te mando esto pa que veas que te quiero"
+    t3 = "Quiero jalarte los cachetes 😫"
+    t4 = "bueno intenta sobrevivir sin mi"
+    t5 = "y cuando me veas ya seras feli ❤"
 }
 
      window.onload = function() {
